@@ -1,2 +1,2 @@
- ks-installer:latest
-
+ 
+metrics-server:v0.4.3
