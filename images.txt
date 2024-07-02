@@ -1,1 +1,1 @@
- busybox:1.28
+kube-apiserver:1.28.0
