@@ -1,1 +1,1 @@
-kubesphere:3.3.2
+kongrtan/kubesphere-images:3.3.2
