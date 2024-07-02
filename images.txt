@@ -1,1 +1,1 @@
-kubesphere-images:3.3.2
+kubesphere:3.3.2
