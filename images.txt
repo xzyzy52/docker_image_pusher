@@ -1,1 +1,1 @@
-kube-apiserver v1.28.0
+kube-apiserver:v1.28.0
