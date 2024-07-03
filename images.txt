@@ -1,1 +1,1 @@
-mirrorgooglecontainers/defaultbackend-amd64:1.4
+kubesphere/ks-installer:v3.3.2
